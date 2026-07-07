@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.out
+*.obj
+highscore.txt
+.vscode/
+.idea/
+build/
